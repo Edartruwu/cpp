@@ -1,0 +1,29 @@
+# Ignore files related to Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+# Ignore files related to Visual Studio
+.vscode/
+*.suo
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.manifest
+*.log
+*.exp
+*.lib
+*.idb
+*.aps
+*.pch
+*.obj
+*.tlog
+*.res
+*.ipch/
+*.iobj/
+# Ignore directories used for build output
+Debug/
+Release/
+ipch/
+
+
