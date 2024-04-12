@@ -1,2 +1,5 @@
 # cpp
-C++ exercises
+
+## C++ exercises
+
+### Just fun in C++
